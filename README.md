@@ -44,7 +44,7 @@ ESP32 nhận tín hiệu, xử lý và điều khiển bật/tắt từng vùng 
 
 LED cảnh báo hiển thị theo trạng thái hệ thống (an toàn, có xe, có vật cản)
 
-🖼️ Hình ảnh minh họa (có thể chèn vào README nếu bạn có file .png)
+🖼️ Hình ảnh minh họa 
 Sơ đồ nguyên lý
 ![Mô tả ảnh](DACN3/Sodo.png)
 
