@@ -2,7 +2,7 @@
 
 ## 🧠 Giới thiệu
 Dự án mô phỏng hệ thống đèn pha ma trận thông minh, lấy cảm hứng từ công nghệ ADB (Adaptive Driving Beam) trên các dòng xe Audi. Hệ thống sử dụng:
-- **ESP32-CAM** để thu nhận hình ảnh và phân tích bằng mô hình AI (Edge Impulse)
+- **ESP32-CAM** để thu nhận hình ảnh và phân tích bằng mô hình AI 
 - **ESP32** để điều khiển các vùng sáng LED thông qua **module relay**, dựa trên dữ liệu nhận được từ ESP32-CAM qua UART.
 
 ## 🎯 Mục tiêu
