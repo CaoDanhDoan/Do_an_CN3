@@ -49,7 +49,9 @@ Sơ đồ nguyên lý
 
 Hình ảnh thực tế mạch đã lắp
 ![Mô tả ảnh](DACN3/MoPhong.jpg)
+
 Biểu đồ đánh giá mô hình AI (Precision, Recall, F1 score)
+
 ![Mô tả ảnh](DACN3/Ketqua.png)
 
 🧪 Kết quả
