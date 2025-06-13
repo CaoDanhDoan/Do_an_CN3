@@ -45,10 +45,10 @@ LED cảnh báo hiển thị theo trạng thái hệ thống (an toàn, có xe, 
 
 🖼️ Hình ảnh minh họa (có thể chèn vào README nếu bạn có file .png)
 Sơ đồ nguyên lý
-![Mô tả ảnh](Sơ đồ thuật toán.png)
+![Mô tả ảnh](Sodo.png)
 
 Hình ảnh thực tế mạch đã lắp
-![Mô tả ảnh](Mô phỏng.jpg)
+![Mô tả ảnh](MoPhong.jpg)
 Biểu đồ đánh giá mô hình AI (Precision, Recall, F1 score)
 
 🧪 Kết quả
