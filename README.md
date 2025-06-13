@@ -1,4 +1,5 @@
 Ứng dụng UART trong kết nối ESP32-CAM và ESP32 cho hệ thống đèn pha ma trận
+
 🧠 Giới thiệu
 Dự án mô phỏng hệ thống đèn pha ma trận thông minh, lấy cảm hứng từ công nghệ ADB (Adaptive Driving Beam) trên các dòng xe Audi. Hệ thống sử dụng:
 
