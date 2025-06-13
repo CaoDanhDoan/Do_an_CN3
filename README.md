@@ -29,10 +29,13 @@ Dự án mô phỏng hệ thống đèn pha ma trận thông minh, lấy cảm h
 - LED cảnh báo hiển thị theo trạng thái hệ thống (an toàn, có xe, có vật cản)
 
 ## 🖼️ Hình ảnh minh họa
+
 Sơ đồ nguyên lý
+
 ![Mô tả ảnh](DACN3/Sodo.png)
 
 Hình ảnh thực tế mạch đã lắp
+
 ![Mô tả ảnh](DACN3/MoPhong.jpg)
 
 Biểu đồ đánh giá mô hình AI (Precision, Recall, F1 score)
@@ -40,6 +43,7 @@ Biểu đồ đánh giá mô hình AI (Precision, Recall, F1 score)
 ![Mô tả ảnh](DACN3/Ketqua.png)
 
 ## 🧪 Kết quả
+
 - Hệ thống hoạt động ổn định
 - Mô hình AI có độ chính xác > 80% trong nhận diện xe
 - Giao tiếp UART chính xác, phản hồi nhanh
